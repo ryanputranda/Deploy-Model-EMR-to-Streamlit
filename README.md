@@ -1,4 +1,7 @@
 # Deploy Model EMR to Streamlit
+![Dashboard](assets/home.jpg)
+![Dashboard](assets/segmentasi.jpg)
+![Dashboard](assets/developer.jpg)
 
 ## 📊 Aplikasi Segmentasi Layanan Kesehatan Karyawan
 
