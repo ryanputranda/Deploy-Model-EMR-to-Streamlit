@@ -51,5 +51,5 @@ kelas **bawah, menengah, dan atas** secara otomatis.
 | Deployment | Implementasi model ke aplikasi Streamlit |
 
 
-
+## Requirement: pip install fastapi streamlit uvicorn joblib numpy scikit-learn
 ## Run: Streamlit run site.py
