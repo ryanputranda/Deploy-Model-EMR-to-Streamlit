@@ -52,4 +52,5 @@ kelas **bawah, menengah, dan atas** secara otomatis.
 
 
 ## Requirement: pip install fastapi streamlit uvicorn joblib numpy scikit-learn
-## Run: Streamlit run site.py
+### Run Streamlit: Streamlit run site.py
+### Run FastAPI: Python -m uvicorn api:app --reload
